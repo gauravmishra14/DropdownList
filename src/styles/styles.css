@@ -1,0 +1,38 @@
+.select_cat_wrapper {
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+.home_wrapper {
+  max-width: 800px;
+  background: #ededed;
+  margin: 50px auto;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.e-multiselect {
+  margin: 50px 0;
+  max-width: 200px;
+}
+
+.e-multi-select-wrapper {
+  border: 1px solid #000;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.e-multi-select-wrapper .e-delim-values {
+  line-height: 40px;
+}
+
+.e-multi-select-wrapper .e-chips-close.e-close-hooker {
+  height: 40px;
+  top: 90%;
+}
+
+.e-multi-select-wrapper .e-searcher {
+  line-height: 40px;
+  padding-left: 10px;
+  margin-top: 7px;
+}
